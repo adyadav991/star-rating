@@ -1,0 +1,15 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.star-container {
+    font-size: xx-large;
+}
+.star {
+    cursor: pointer;
+    color: gray;
+}
+.star-filled {
+    color: rgb(232, 232, 137);
+}
